@@ -59,9 +59,7 @@
 
 <br>
 
-
-
-### Education 
+### 🚀 Education 
 ---
 단국대학교 소프트웨어학과 졸업 2020.03 ~ 2024.02 
 
@@ -70,7 +68,7 @@
 전체 학점 4.32 / 4.5
 
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats 
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heewon916&show_icons=true&theme=nord&hide_border=true&card_width=450" alt="heewon916's GitHub stats"/>
