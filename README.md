@@ -3,7 +3,7 @@
 <div align="center">
   <h1>Who Am I</h1>
   <h2>Hello I'm Heewon Kim!🖐🏻</h2>
-  <p>Interested in Better User eXperience using Comuter Vision above WebApp Service</p>
+  <p>Interested in Better User eXperience using Comuter Vision on top of WebApp Service</p>
   <p>Mainly Used Techs. JavaScript/ React.js/ Java/ SpringBoot/ Python</p>
   <p>누군가에게 도움이 되고자 하는 방향성을 개발에서 구체화 하고 있습니다. </p>
 </div>
