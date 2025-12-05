@@ -1,16 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=HEEWON's%20GITHUB&fontSize=50&animation=twinkling&fontAlignY=36)
 
 <div align="center">
-  <h2> 안녕하세요! 사람을 위하는 개발자 김희원입니다.🖐🏻</h2>
-  <p>프론트엔드와 컴퓨터 비전에 관심이 많습니다!</p>
-  <p>우리의 일상에 도움이 되는 서비스 개발을 추구하며, 지식과 경험을 나누고 함께 성장하는 삶을 지향합니다.</p>
+  <h1>Who Am I</h1>
+  <h2>Hello I'm Heewon Kim!🖐🏻</h2>
+  <p>Interested in Better User eXperience using Comuter Vision above WebApp Service</p>
+  <p>Mainly Used Techs. JavaScript/ React.js/ Java/ SpringBoot/ Python</p>
+  <p>누군가에게 도움이 되고자 하는 방향성을 개발에서 구체화 하고 있습니다. </p>
 </div>
 
 <br>
 
 ### 👩🏻‍💻 About Me
 ---
-- 🌱 현재 MySQL 8.0의 InnoDB를 공부하고 있습니다.
+- ✅ ~~현재 MySQL 8.0의 InnoDB를 공부하고 있습니다.~~
+- ✏️ Spring Boot와 MySQL 기반으로 소규모 프로젝트를 진행중입니다. 
 - 🚀 컴퓨터 비전 기술을 웹에 접목하는 프로젝트에 관심이 많습니다.
 - 💬 생성형AI를 활용해 실질적인 생산성 증가 방법을 고민하고 있습니다.
 - 📫 **Contact**: `kimhiwon@naver.com`
@@ -35,6 +38,7 @@
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -59,13 +63,27 @@
 
 <br>
 
-### 🚀 Education 
+
+
+### 🚀 What I have Done 
 ---
-단국대학교 소프트웨어학과 졸업 2020.03 ~ 2024.02 
 
-전공 학점 4.37 / 4.5
+**🍀 단국대학교 소프트웨어학과 졸업 2020.03 ~ 2024.02**
+- 전공 학점 4.37 / 4.5
+- 전체 학점 4.32 / 4.5
+<br>
 
-전체 학점 4.32 / 4.5
+**🍀 고등학교 근무 2024.03 ~ 2025.06** 
+- 정보컴퓨터 정교사 재직
+<br>
+
+**🍀 삼성 청년 SW AI 아카데미 2025.07 ~ 현재** 
+- Java 기반의 알고리즘 학습
+- Javascript, Tailwand CSS, Vue.js, Spring Boot, MySQL 기반의 프로젝트 기술 학습
+- 삼성전자 MX사업부 주관 멘토링 행사 참여
+
+<br> 
+
 
 
 ### 📊 My GitHub Stats 
@@ -82,6 +100,8 @@
 </p>
 
 <br>
+
+
 
 ### ✨ Connect with Me
 ---
