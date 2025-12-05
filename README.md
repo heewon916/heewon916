@@ -73,8 +73,18 @@
 - 전체 학점 4.32 / 4.5
 <br>
 
+**🍀 SW중심대학 사업단의 Software Pioneer Program 수료 2022.07.03 ~ 2022.07.31**
+- 미국 서던캘리포니아주립대학교(University of Southern California)
+- AI와 Data Science를 주제로 English 수업 수강
+- 1day 한국-미국 해커톤 참여
+- CA Silicon Valley 기업 탐방 및 세미나 참여 (Google, Apple)
+
+<br>
+
+
 **🍀 고등학교 근무 2024.03 ~ 2025.06** 
 - 정보컴퓨터 정교사 재직
+- C언어, Python 교육 담당
 <br>
 
 **🍀 삼성 청년 SW AI 아카데미 2025.07 ~ 현재** 
