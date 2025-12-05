@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Whatever, Just Start!&fontSize=50&animation=twinkling&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=Whatever,%20Just%20Start!&fontSize=50&animation=twinkling&fontAlignY=36)
 
 <div align="center">
   <h1>Who Am I</h1>
