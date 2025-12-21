@@ -41,7 +41,7 @@
 
 <br/>
 
-## 🚀 Study Experiences
+## 🚀 Experiences
 
 ### 단국대학교 소프트웨어학과 졸업
 
