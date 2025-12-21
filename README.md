@@ -56,6 +56,11 @@
 - 1day 한국-미국 해커톤 참여
 - CA Silicon Valley 기업 탐방 및 세미나 참여 (Google, Apple)
 
+### 중고등학교 정교사 근무 
+
+- 프로그래밍 수업 진행 (C, Python)
+- 업무 효율을 위해 출석부 자동화 프로그램 개발 
+
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gimione)](https://solved.ac/gimione)
