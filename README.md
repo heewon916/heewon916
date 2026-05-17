@@ -10,7 +10,7 @@
 <br>
 
 ## 🎇 PortFolio 🎇
-### [GOOGLE DRIVE LINK](https://drive.google.com/file/d/1R7hUeL2s-DNQVBtCZeT-x9ykOlIsMMNu/view) ⬅️ CLICK IT!! 
+### [GOOGLE DRIVE LINK]() ⬅️ CLICK IT!! 
 
 <br>
 
