@@ -9,11 +9,6 @@
 
 <br>
 
-## 🎇 PortFolio 🎇
-### [GOOGLE DRIVE LINK](.) ⬅️ CLICK IT!! 
-
-<br>
-
 ## 💻 Tech Stacks
 
 <h3>Languages</h3>
